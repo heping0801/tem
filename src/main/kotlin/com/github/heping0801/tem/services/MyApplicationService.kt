@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.heping0801.tem.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.heping0801.tem.MyBundle
 
 class MyApplicationService {
 
